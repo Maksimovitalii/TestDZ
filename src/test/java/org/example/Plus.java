@@ -6,6 +6,6 @@ import org.junit.platform.suite.api.Suite;
 
 @Suite
 @SelectPackages("org.example")
-@IncludeTags("paramsumm")
+@IncludeTags("ParamSumm")
 public class Plus {
 }

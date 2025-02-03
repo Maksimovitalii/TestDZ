@@ -6,6 +6,6 @@ import org.junit.platform.suite.api.Suite;
 
 @Suite
 @SelectPackages("org.example")
-@IncludeTags("paramdif")
+@IncludeTags("paramDif")
 public class Minus {
 }

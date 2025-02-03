@@ -5,6 +5,6 @@ public class Main {
 
         Calc calculator = new Calc();
         calculator.summ(1, 10);
-        calculator.summ1(10, 1);
+        calculator.dif (10, 1);
     }
 }

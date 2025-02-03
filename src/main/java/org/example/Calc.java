@@ -7,7 +7,7 @@ public class Calc {
         return result;
     }
 
-    public int summ1(int a, int b) {
+    public int dif(int a, int b) {
         int result = a - b;
         System.out.println("Разность " + a + " и " + b + " равна " + result);
         return result;
